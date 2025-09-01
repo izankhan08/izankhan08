@@ -40,7 +40,7 @@
 
 ### 🌍 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/md-izan-khan/)  
-[![Email](https://img.shields.io/badge/Email-%F0%9F%93%A7-red)](mailto:mdizankhan@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-%F0%9F%93%A7-red)](mailto:mdizankhan08@gmail.com)  
 
 ---
 
